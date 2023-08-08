@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Fathima Mohamed Ashraff 
+url: "https://fathimakm.github.io/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Fathima Mohamed Ashraff
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://github.com/fathimakm.github.io
 
 # -----
 # Build

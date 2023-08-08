@@ -1,27 +1,9 @@
-# Treat
+# Fathima's Blog
 
-Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
+Light weight Jekyll Developer Blog inspired from Treat Template
 
-![Treat template screenshot](images/_screenshot.png)
 
-Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/treat-jekyll-template)
-
-## Features
-
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Disqus comments for posts
-* Configurable sidebar
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
 
 ## Setup
 
@@ -49,12 +31,6 @@ $ bundle exec jekyll serve
 ## Editing
 
 Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
-
-### Posts/Recipes
-
-* Add, update or remove a post in the *Posts* collection.
-* The recipes page is organised by categories.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
 
 ### Contact Form
 
